@@ -1,6 +1,6 @@
-//# Sensores-de-presion-arduino-processing-aplicacion-en-ingenieria-civil
-//Utilización de sensores de presión para el correcto funcionamiento de apuntalamientos durante la construcción de vigas de hormigón. Lectura de datos con arduino y procesamiento de datos e interfaz gráfica con processing
-//CODIGO PARA LECTURA DE DATOS DE ARDUINO DE TRES SENSORES DE PRESIÓN
+  //# Sensores-de-presion-arduino-processing-aplicacion-en-ingenieria-civil
+  //Utilización de sensores de presión para el correcto funcionamiento de apuntalamientos durante la construcción de vigas de hormigón. Lectura de datos con arduino y procesamiento de datos e interfaz gráfica con processing
+  //CODIGO PARA LECTURA DE DATOS DE ARDUINO DE TRES SENSORES DE PRESIÓN
 int v;
 int w;
 int x;
